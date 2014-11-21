@@ -1,0 +1,126 @@
+/**
+*
+* Style Responsive for LOREK Template by LAMPU
+*
+**/
+/* --------------------------------------------------
+        Design for 1024px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 1024px) {
+  #client .slick-dots {
+    bottom: 55%;
+  }
+}
+@media only screen and (max-width: 980px) {
+  #main-nav .navbar-toggle {
+    margin-top: 18px;
+  }
+
+  #main-nav .main-menu h3 {
+    font-size: 26px;
+    line-height: 2.8;
+  }
+
+  footer .credit, footer .copyright .social-network ul {
+    text-align: center;
+  }
+  footer .copyright .social-network {
+    float: none;
+  }
+}
+/* --------------------------------------------------
+        Design for 82S0px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 820px) {
+  #slider a span {
+    font-size: 50px;
+  }
+
+  #slider .left span {
+    left: 1px;
+  }
+  #slider .right span {
+    right: 1px;
+  }
+
+  #services .main-services .services-img img {
+    padding-top: 30px;
+  }
+}
+/* --------------------------------------------------
+        Design for 768px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 768px) {
+  #slider .body-slider h3 {
+    font-size: 200%;
+  }
+
+  #slider .body-slider a {
+    font-size: 12px;
+  }
+
+  #slide a span {
+    font-size: 50px;
+  }
+
+  #client .slick-dots {
+    bottom: 55%;
+  }
+
+  #services .main-services .services-img img {
+    padding-top: 30px;
+  }
+}
+/* --------------------------------------------------
+        Design for 600px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 620px) {
+  #main-nav .main-menu ul {
+    float: none;
+    text-align: center;
+  }
+
+  #main-nav .main-menu ul li a {
+    padding: 20px 15px;
+  }
+
+  #client .slick-dots {
+    bottom: 60%;
+  }
+}
+/* --------------------------------------------------
+        Design for 480px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 480px) {
+  #main-nav .main-menu h3 {
+    font-size: 24px;
+  }
+
+  #slider a span {
+    font-size: 32px;
+  }
+
+  #slider .body-slider {
+    top: 30%;
+  }
+
+  #client .slick-dots {
+    bottom: 60%;
+  }
+}
+/* --------------------------------------------------
+        Design for 320px
+/* -------------------------------------------------- */
+@media only screen and (max-width: 350px) {
+  #slider .body-slider a {
+    font-size: 10px;
+  }
+
+  #client .slick-dots {
+    bottom: 70%;
+  }
+
+  #main-nav .navbar-toggle {
+    margin-right: 5px;
+  }
+}
